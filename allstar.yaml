@@ -1,4 +1,2 @@
 optConfig:
-  optOutStrategy: false
-  optInRepos:
-  - Colab
+  optOutStrategy: true
